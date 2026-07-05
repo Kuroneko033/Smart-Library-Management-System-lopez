@@ -9,6 +9,7 @@ Project Modules
 - Inventory Management
 - Reports
 Development Team
+
 Student Name: Dranreb Gee S. Lopez
 
 Course: BSIT SD
