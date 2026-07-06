@@ -8,7 +8,7 @@ Project Modules
 - Book Returning
 - Inventory Management
 - Reports
-- 
+
 Development Team
 
 Student Name:Dranreb Gee S. Lopez
@@ -16,3 +16,12 @@ Student Name:Dranreb Gee S. Lopez
 Course: BSIT SD
 
 Section: 2C
+
+Member Management Module
+
+Features
+
+- Register New Member
+- Update Member Information
+- Delete Member Record
+- Search Member
